@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/360_F_517798849_WuXhHTpg2djTbfNf0FQAjzFEoluHpnct.jpg</file>
+        <file>img/1000_F_256364189_SLfXIaNrA4Yb8I0djHIoggKo0W2q1KwK.jpg</file>
+        <file>img/5700c04197ee9a4372a35ef16eb78f4e.jpg</file>
+        <file>img/42575bb8a260721d1225406de7f637dc.png</file>
+        <file>img/de475cb79969a810d45ba9b5d8cbf4a5.png</file>
+        <file>img/images.png</file>
+        <file>img/JjLdQeoiQKG4vHp28LbrPD-320-80.png</file>
+        <file>img/off.png.png</file>
+        <file>img/on.png.png</file>
+        <file>img/original-795f3020df0f211b0ac0ecfb4f7611bd.png</file>
+        <file>img/original-b622a516fe8aef0488f7ca050279c865.png</file>
+        <file>img/original-c810d50c0177c2d3d5e7219c906290a8.png</file>
+    </qresource>
+</RCC>
